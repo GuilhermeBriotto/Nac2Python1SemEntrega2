@@ -3,11 +3,9 @@
 
 ## Parte 2 - Detecção de face e filtros
 
-### Aluno: Guilherme Briotto
-### RM: 82385
+### Aluno: Guilherme Briotto   RM: 82385
 
-### Aluno: Carolina Naomi Miura de Paula
-### RM: 83166
+### Aluno: Carolina Naomi Miura de Paula   RM: 83166
 
 ### Sala: 4SIS
 
